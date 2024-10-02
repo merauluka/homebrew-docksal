@@ -2,7 +2,7 @@ class Docksal < Formula
   desc "Docker powered web development environments for macOS, Windows & Linux"
   homepage "https://docksal.io"
   url "https://github.com/docksal/docksal/archive/v1.19.0.tar.gz"
-  sha256 "0051a447417d5413efdcb650c387b40cc31b5b4416bdf95e19c6fe0fe3784c9d"
+  sha256 "7881d5e9e47e126948944165d8c4a8775b166f94d0ea519e5982003d9a7f4a3a"
   license "MIT"
 
   livecheck do
